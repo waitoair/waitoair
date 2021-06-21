@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Luana :wave:
 
-<!--
+Hi, I'm luana, you can call me lu, I'm a Brazilian software developer recently graduated from [Le Wagon](https://www.lewagon.com/), a programming bootcamp, present in 45 cities, in 20 countries.
+
+In this course I discovered my passion for programming, more precisely Ruby on Rails, nowadays I start my day with a good coffee and develop projects based on the knowledge from the course.
+
+## Contact with me
+[LinkedIn](https://www.linkedin.com/in/saraivaluana/)
+
+<!-- ### Hi there 👋
 **waitoair/waitoair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
