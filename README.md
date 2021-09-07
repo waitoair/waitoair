@@ -2,7 +2,8 @@
 
 Hi, I'm a Brazilian software developer recently graduated from [Le Wagon](https://www.lewagon.com/), a programming bootcamp present in 45 cities, in 20 countries.
 
-In this course I discovered my passion for programming, more precisely Ruby on Rails, nowadays I start my day with a good coffee :coffee: and develop projects based on the knowledge from the course.
+In this course I discovered my passion for programming and currently I'm working with Ruby on Rails and React and I'm really enjoying it, so I intend to improve myself in these technologies more and more. <br/>
+I always start the day with good coffee ☕
 
 ## Contact with me
 [LinkedIn](https://www.linkedin.com/in/saraivaluana/)
