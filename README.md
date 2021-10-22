@@ -7,8 +7,8 @@
 
 ### Let's talk!
 
-[<img align="left" alt="Luana Saraiva | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][email]
-[<img align="left" alt="Luana Saraiva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.9.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" target="_blank" alt="Luana Saraiva | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][email]
+[<img align="left" target="_blank" alt="Luana Saraiva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.9.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 <hr>
