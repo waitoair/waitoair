@@ -1,62 +1,12 @@
 ### Hi there, I'm Luana! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px" />
 
-- Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
-- Learning a little more about Ruby on Rails every day
-<br />
-<hr>
+* :computer: I'm a full-stack developer recently graduated from [Le Wagon](https://www.lewagon.com)
+* :sparkles: Learning a little more about Ruby on Rails every day
+* :round_pushpin: Rio de Janeiro, Brazil
 
-### Let's talk!
+# <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 
-[<img align="left" target="_blank" alt="Luana Saraiva | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gmail.svg" />][email]
-[<img align="left" target="_blank" alt="Luana Saraiva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.9.0/icons/linkedin.svg" />][linkedin]
+<h3 align="left">My GitHub Stats:</h3>
 
-<br />
-<hr>
-
-[email]: mailto:luana_saraiva2@hotmail.com
-[linkedin]: https://www.linkedin.com/in/saraivaluana/
-
-### Languages and Tools:
-
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-<hr>
-
-
-
-
-
-
-<!-- ## Hi there, I'm Luana :wave:
-
-Hi, I'm a Brazilian software developer recently graduated from [Le Wagon](https://www.lewagon.com/), a programming bootcamp present in 45 cities, in 20 countries.
-
-In this course I discovered my passion for programming and currently I'm working with Ruby on Rails and React and I'm really enjoying it, so I intend to improve myself in these technologies more and more. <br/>
-I always start the day with good coffee ☕
-
-## Contact with me
-[LinkedIn](https://www.linkedin.com/in/saraivaluana/)
-
- ### Hi there 👋
-**waitoair/waitoair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=waitoair&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/waitoair/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waitoair&layout=compact&theme=radical)](https://github.com/waitoair/github-readme-stats)
