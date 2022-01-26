@@ -1,7 +1,7 @@
 ### Hi there, I'm Luana! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px" />
 
 * :computer: I'm a full-stack developer graduated from [Le Wagon](https://www.lewagon.com)
-* :books: Second year of a degree in Systems Analysis and Development.
+* :books: Second year of a degree in Systems Analysis and Development
 * :sparkles: Learning a little more about Ruby on Rails every day
 * :round_pushpin: Rio de Janeiro, Brazil
 
