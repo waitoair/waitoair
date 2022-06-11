@@ -1,4 +1,4 @@
-### Hi there, I'm Luana! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="20px"/>
+### Hi there, I'm Luana! 👋
 
 * :computer: I'm a full-stack developer graduated from [Le Wagon](https://www.lewagon.com)
 * :books: Second year of a degree in Systems Analysis and Development
