@@ -6,7 +6,7 @@
 * :woman_technologist: Currently working as software developer at [eNUBE.me](http://enube.me)
 * :round_pushpin: Rio de Janeiro, Brazil
 
-### <h3 align="left">Languages and Tools: </h3>
+# <h3 align="left">Languages and Tools: </h3>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
