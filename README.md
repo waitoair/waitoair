@@ -2,8 +2,7 @@
 
 * :computer: I'm a full-stack developer graduated from [Le Wagon](https://www.lewagon.com)
 * :books: Second year of a degree in Systems Analysis and Development
-* :sparkles: Learning a little more about Flutter every day
-* :woman_technologist: Currently working as software developer at [eNUBE.me](http://enube.me)
+* :sparkles: Learning a little more about Ruby on Rails and Flutter every day
 * :round_pushpin: Rio de Janeiro, Brazil
 
 # <h3 align="left">Languages and Tools: </h3>
