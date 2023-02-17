@@ -2,7 +2,7 @@
 
 * :computer: I'm a full-stack developer graduated from [Le Wagon](https://www.lewagon.com)
 * :books: Second year of a degree in Systems Analysis and Development
-* :sparkles: Learning a little more about Ruby on Rails and Flutter every day
+* :sparkles: Learning a little more about Ruby on Rails very day
 * :round_pushpin: Rio de Janeiro, Brazil
 
 # <h3 align="left">Languages and Tools: </h3>
